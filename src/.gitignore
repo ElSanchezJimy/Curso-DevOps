@@ -1,0 +1,12 @@
+# Archivos de configuracion de .NET
+appsettings*.json
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Archivos de complilacion de  Terraforms
+*.tfstate
+/.terraform
+*.tfstate.*
+*.tfvars
